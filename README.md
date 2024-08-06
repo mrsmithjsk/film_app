@@ -2,6 +2,6 @@
 
 Here are the screenshots:
 
-![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 1](src/screenshots/Screenshot1.png)
 
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](src/screenshots/Screenshot2.png)
