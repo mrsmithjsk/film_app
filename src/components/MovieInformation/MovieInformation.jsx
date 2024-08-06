@@ -1,4 +1,3 @@
-
 import { Button, Modal, Typography, ButtonGroup, Grid, Box, CircularProgress, Rating } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import { Movie as MovieIcon, Theaters, Language, PlusOne, Favorite, FavoriteBorderOutlined, Remove, ArrowBack } from '@mui/icons-material'

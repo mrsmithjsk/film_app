@@ -1,9 +1,8 @@
-
 import { TextField, InputAdornment } from '@mui/material'
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import { Search as SearchIcons } from '@mui/icons-material'
 import ClearIcon from '@mui/icons-material/Clear';
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch } from 'react-redux'
 import { useLocation } from 'react-router-dom'
 import useStyles from './styles';
 import { searchMovie } from '../../features/currentGenreOrCategory'
